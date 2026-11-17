@@ -1,0 +1,17 @@
+Location,Method_A,Method_B,Interpretation,Mean_Error_Difference,CI95_Low,CI95_High,Bootstrap_P_NoImprovement
+Location1,Static,SkillTrigger_T1.5_Expanding,Positive difference = Method_B lower MAE,0.0,0.0,0.0,1.0
+Location1,PeriodicExpanding_30d,SkillTrigger_T1.5_Expanding,Positive difference = Method_B lower MAE,-7.177742175500005e-05,-0.0001678487013176525,2.3655677177195737e-05,0.943
+Location1,PeriodicExpanding_90d,SkillTrigger_T1.5_Expanding,Positive difference = Method_B lower MAE,-1.2533215918941599e-08,-7.646650179507855e-05,8.059675393975398e-05,0.446
+Location1,PeriodicExpanding_180d,SkillTrigger_T1.5_Expanding,Positive difference = Method_B lower MAE,-5.217556155734335e-05,-0.00011372109270067456,1.4693919215546656e-05,0.937
+Location2,Static,SkillTrigger_T1.5_Expanding,Positive difference = Method_B lower MAE,0.0,0.0,0.0,1.0
+Location2,PeriodicExpanding_30d,SkillTrigger_T1.5_Expanding,Positive difference = Method_B lower MAE,-0.00023410571052117415,-0.0003438245552445582,-0.00014276315237202492,1.0
+Location2,PeriodicExpanding_90d,SkillTrigger_T1.5_Expanding,Positive difference = Method_B lower MAE,-0.00019137435790819913,-0.0002877677516762789,-0.00010840836450644714,1.0
+Location2,PeriodicExpanding_180d,SkillTrigger_T1.5_Expanding,Positive difference = Method_B lower MAE,-9.232782686569229e-05,-0.0001625018985303658,-2.0276735570540927e-05,0.992
+Location3,Static,SkillTrigger_T1.5_Expanding,Positive difference = Method_B lower MAE,0.0006609263639274134,0.0002977680359855618,0.001103014302951734,0.0
+Location3,PeriodicExpanding_30d,SkillTrigger_T1.5_Expanding,Positive difference = Method_B lower MAE,-0.0003565437407862847,-0.0006866891323522873,-0.00010668224057289511,1.0
+Location3,PeriodicExpanding_90d,SkillTrigger_T1.5_Expanding,Positive difference = Method_B lower MAE,0.0006182499283230389,0.00022949108414059783,0.0011055208985145844,0.0
+Location3,PeriodicExpanding_180d,SkillTrigger_T1.5_Expanding,Positive difference = Method_B lower MAE,0.000625953037566293,0.00024355908266645586,0.0011304342936600679,0.0
+Location4,Static,SkillTrigger_T1.5_Expanding,Positive difference = Method_B lower MAE,0.0,0.0,0.0,1.0
+Location4,PeriodicExpanding_30d,SkillTrigger_T1.5_Expanding,Positive difference = Method_B lower MAE,-8.145398784094279e-05,-0.00021473520245860245,2.1098438862921383e-05,0.933
+Location4,PeriodicExpanding_90d,SkillTrigger_T1.5_Expanding,Positive difference = Method_B lower MAE,-0.00010201725786202699,-0.00023467334077136574,-8.636095091023633e-06,0.986
+Location4,PeriodicExpanding_180d,SkillTrigger_T1.5_Expanding,Positive difference = Method_B lower MAE,-8.662003074970378e-05,-0.0001739753749528396,-2.1577598497542755e-05,1.0

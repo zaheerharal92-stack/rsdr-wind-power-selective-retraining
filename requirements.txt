@@ -1,0 +1,6 @@
+pandas==3.0.1
+numpy==2.4.3
+xgboost==3.4.1
+river==0.26.1
+scikit-learn
+matplotlib
